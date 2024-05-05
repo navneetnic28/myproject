@@ -1,0 +1,99 @@
+* {
+
+    padding: 0px;
+    margin: 0px;
+}
+
+.oip {
+    border-radius: 50%;
+}
+
+#sell {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+
+.navF {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    height: 25px;
+    color: beige;
+}
+
+.navs {
+    display: flex;
+    justify-content: space-around;
+    background-color: azure;
+    height: 50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.slide {
+    height: 20rem;
+    background-color: blanchedalmond;
+    l
+}
+
+.slide img {
+    position: relative;
+    top: -7%;
+    left: 60%;
+}
+
+.offer {
+    position: absolute;
+    top: 180px;
+    left: 10rem;
+
+
+}
+
+#Shop {
+    background-color: rgb(237, 131, 218);
+    margin: 10px;
+    width: 100px;
+}
+
+.container {
+    text-align: center;
+    padding: 10px 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    
+}
+
+.alll {
+    display: flex;
+    justify-content: space-around;
+}
+.jeanss{
+    display: flex;
+    padding-top: 5px;
+    justify-content: space-around;
+}
+.price{
+    color: #00ff08;
+}
+.pricecut{
+    text-decoration: line-through;
+    color:rgb(114, 137, 137);
+}
+.containerh{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+.buyy{
+    padding: 30px;
+    position: absolute;
+    left: 150px;
+    color: rgb(255, 255, 0);
+
+}
+.ooo{
+    position: absolute;
+    right: 10px;
+    bottom: 50px;
+}
